@@ -8,6 +8,7 @@ namespace Lab2Zad1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("siemanko!");
+            Console.WriteLine("ELO RAP");
             string s = Console.ReadLine();
             Console.WriteLine(s);
             Console.ReadLine();
