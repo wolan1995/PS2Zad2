@@ -7,6 +7,9 @@ namespace Lab2Zad1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            string s = Console.ReadLine();
+            Console.WriteLine(s);
+            Console.ReadLine();
         }
     }
 }
